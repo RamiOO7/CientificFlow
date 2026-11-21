@@ -13,11 +13,5 @@ App web para aprender la tabla periódica: tabla completa de 118 elementos, vist
 ## Archivos
 `index.html` · `manifest.webmanifest` · `sw.js` · `icon-192.png` · `icon-512.png`
 
-## Publicar con GitHub Pages
-1. Sube todos los archivos a la raíz del repositorio.
-2. Ve a Settings → Pages.
-3. En Source elige Deploy from a branch, rama `main`, carpeta `/ (root)`.
-4. Abre la URL que te da GitHub Pages.
-
 ## Licencia
 MIT
